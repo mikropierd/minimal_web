@@ -24,3 +24,30 @@ wikipedia.org##.refbegin
 wikipedia.org##.text.external
 wikipedia.org##.cs1.web.citation
 wikipedia.org##sup.Inline-Template.noprint
+
+# PORTAL FIZJOTERAPEUTY
+fizjoterapeuty.pl##.elementor-location-header.elementor-26278.elementor
+fizjoterapeuty.pl##.elementor-element-6ec197b9.elementor-element.elementor-top-column.elementor-col-33.elementor-column
+fizjoterapeuty.pl##.elementskit-parallax-multi-container.jet-parallax-section.elementor-section-height-default.elementor-section-boxed.elementor-hidden-phone.elementor-section-items-top.elementor-section-height-min-height.elementor-element-1446e3cf.elementor-element.elementor-top-section.elementor-section
+fizjoterapeuty.pl##.e-lazyloaded.elementskit-parallax-multi-container.e-parent.e-con.e-con-boxed.e-flex.elementor-element-67caa9a.elementor-element
+fizjoterapeuty.pl##.elementskit-parallax-multi-container.jet-parallax-section.elementor-section-height-default.elementor-section-boxed.elementor-element-5789672d.elementor-element.elementor-top-section.elementor-section
+fizjoterapeuty.pl##.is-mac.elementor-widget-image.elementor-widget.elementor-element-1403478.elementor-element
+fizjoterapeuty.pl##.is-mac.elementor-widget-heading.elementor-widget.elementor-element-a460ea1.elementor-element
+fizjoterapeuty.pl##b
+fizjoterapeuty.pl##.glend673bdcaba3895
+fizjoterapeuty.pl##.is-mac.elementor-widget-image.elementor-widget.elementor-element-af65ea1.elementor-element
+fizjoterapeuty.pl##table
+fizjoterapeuty.pl##.elementskit-parallax-multi-container.jet-parallax-section.elementor-section-height-default.elementor-section-boxed.elementor-element-701c45bf.elementor-element.elementor-inner-section.elementor-section
+fizjoterapeuty.pl##.elementor-element-b6f1060.elementor-element.elementor-top-column.elementor-col-50.elementor-column
+
+# MP.PL
+www.mp.pl###right_box
+www.mp.pl###footer
+www.mp.pl##.ue-logo.col-xs-12
+www.mp.pl##.ad-right-swim-box
+www.mp.pl###comments-async
+www.mp.pl##.articles-see-also
+www.mp.pl##.info-box
+www.mp.pl###top-link-block
+www.mp.pl###top-board
+www.mp.pl##header

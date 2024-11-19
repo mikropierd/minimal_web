@@ -51,3 +51,11 @@ www.mp.pl##.info-box
 www.mp.pl###top-link-block
 www.mp.pl###top-board
 www.mp.pl##header
+
+# GITHUB.COM
+github.com##.flex-lg-nowrap.flex-wrap.flex-lg-row.flex-column-reverse.flex-items-center.flex-justify-center.d-flex
+github.com##.js-notice.BorderGrid-row
+github.com##.p-responsive.color-fg-muted.f6.pb-6.pt-8.footer
+github.com##.AppHeader-globalBar-start > deferred-side-panel
+github.com##.cm-panels-bottom.cm-panels
+github.com##.iXNuQB.Box-sc-g0xbh4-0

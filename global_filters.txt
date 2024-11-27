@@ -1,6 +1,21 @@
 # GLOBAL
 */partner.ads.js
 
+# discussions.apple.com
+discussions.apple.com###ac-globalfooter
+discussions.apple.com##.recommendations
+discussions.apple.com##.action-bar-content
+discussions.apple.com##.timestamp
+discussions.apple.com##.signature
+discussions.apple.com##.header
+discussions.apple.com##.locked-thread
+discussions.apple.com##.announcements
+discussions.apple.com##.reply-bar-content
+discussions.apple.com##.css-sticky.localnav-scrim.localnav
+discussions.apple.com##.breadcrumbs
+discussions.apple.com##.globalheader-light.globalnav-scrim
+discussions.apple.com##.question-wrapper
+
 # WIKIPEDIA
 wikipedia.org##.reference
 wikipedia.org##.vector-page-titlebar.mw-body-header
@@ -64,7 +79,59 @@ github.com###security-tab
 github.com###pull-requests-tab
 github.com###actions-tab
 github.com###insights-tab
+github.com##.discussion-timeline-actions
+github.com##.discussion-sidebar-item
+github.com##.d-flex.reactions-container.social-reactions.js-reaction-buttons-container.js-reactions-container.just-bottom.comment-reactions
+github.com##.d-md-block.d-none.TimelineItem-avatar.avatar-parent-child
+github.com##.d-flex.clearfix.timeline-comment-header
+github.com##show-dialog-on-load
+github.com##.bVgnfw.Box-sc-g0xbh4-0
+github.com##.iNSVHo.Box-sc-g0xbh4-0
+github.com##.hTYflC.Box-sc-g0xbh4-0
+github.com##.col-lg-3.col-md-4
+github.com##.flash-notice.flash-full.flash
+github.com## .react-directory-row-commit-cell .react-directory-commit-message > .Link--secondary
+github.com###issues-index-tip
+
+# gist.github.com
+gist.github.com##.js-quote-selection-container
+gist.github.com##.d-inline-flex.flex-items-center
+gist.github.com##.js-remove-unless-platform.Button--small.Button--secondary.Button--iconOnly.Button
+gist.github.com##.gistsearch-aside.col-4
+
+# www.icloud.com
+www.icloud.com##header
+www.icloud.com##.footer
+
+# userstyles.world
+userstyles.world##.Footer
+
+# kagi.com
+kagi.com##.xl\:flex-row.flex-column.justify-between.align-center.flex.mt-a.app-footer
+
+# freedium.cfd
+freedium.cfd###header
+freedium.cfd##.pb-3.font-bold.text-green-500.md\:text-sm.text-base
+freedium.cfd##.mt-5.gap-2.flex-wrap.flex
+freedium.cfd##.left-4.bottom-4.fixed
+freedium.cfd##.mt-5.m-2.border-gray-300.border.dark\:bg-gray-600.bg-gray-100
 
 # SCRIBE.RIP
 scribe.rip##.marginnote
 scribe.rip##.meta
+
+# forums.macrumors.com
+forums.macrumors.com##.p-footer
+forums.macrumors.com##.p-breadcrumb--bottom.breadcrumb
+forums.macrumors.com##.block-outer--after.block-outer
+forums.macrumors.com##.th_node--overwriteTextStyling.th_node--hasCustomIcon.node--search.node-header-224.p-body-header
+forums.macrumors.com##.p-sectionLinks
+forums.macrumors.com##.p-nav
+forums.macrumors.com##.p-header
+forums.macrumors.com##.message-cell--user.message-cell
+forums.macrumors.com##.message-attribution-opposite--list.message-attribution-opposite
+forums.macrumors.com##.message-lastEdit
+forums.macrumors.com##.th_node--overwriteTextStyling.th_node--hasCustomIcon.node--search.node-header-146.p-body-header
+forums.macrumors.com##div.breadcrumb
+forums.macrumors.com##.p-description
+forums.macrumors.com##.is-active.js-reactionsList.reactionsBar

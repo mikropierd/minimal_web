@@ -59,3 +59,12 @@ github.com##.p-responsive.color-fg-muted.f6.pb-6.pt-8.footer
 github.com##.AppHeader-globalBar-start > deferred-side-panel
 github.com##.cm-panels-bottom.cm-panels
 github.com##.iXNuQB.Box-sc-g0xbh4-0
+github.com##.position-relative.AppHeader-actions
+github.com###security-tab
+github.com###pull-requests-tab
+github.com###actions-tab
+github.com###insights-tab
+
+# SCRIBE.RIP
+scribe.rip##.marginnote
+scribe.rip##.meta

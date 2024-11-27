@@ -109,11 +109,7 @@ userstyles.world##.Footer
 # kagi.com
 kagi.com##.xl\:flex-row.flex-column.justify-between.align-center.flex.mt-a.app-footer
 kagi.com##DIV:nth-child(7)>FOOTER:nth-child(3)>DIV:nth-child(1)
-kagi.com##DIV:nth-child(12)>DIV:nth-child(3)>DIV:nth-child(2)>[id='_0_app_content']>[id='main']>[id='page1']>[id='layout-v2']>DIV:nth-child(1)>DIV:nth-child(1)>DIV:nth-child(1)>DIV:nth-child(2)>DIV:nth-child(2)>DIV:nth-child(2)>DIV:nth-child(1)>A:nth-child(1)
-kagi.com##DIV:nth-child(12)>DIV:nth-child(3)>DIV:nth-child(2)>[id='_0_app_content']>[id='main']>[id='page1']>[id='layout-v2']>DIV:nth-child(1)>DIV:nth-child(1)>DIV:nth-child(1)>DIV:nth-child(2)>DIV:nth-child(2)>DIV:nth-child(2)>DIV:nth-child(1)>A:nth-child(2)
-kagi.com##DIV:nth-child(12)>DIV:nth-child(3)>DIV:nth-child(2)>[id='_0_app_content']>[id='main']>[id='page1']>[id='layout-v2']>DIV:nth-child(1)>DIV:nth-child(1)>DIV:nth-child(1)>DIV:nth-child(2)>DIV:nth-child(2)>DIV:nth-child(2)>DIV:nth-child(1)>A:nth-child(3)
-kagi.com##DIV:nth-child(12)>DIV:nth-child(3)>DIV:nth-child(2)>[id='_0_app_content']>[id='main']>[id='page1']>[id='layout-v2']>DIV:nth-child(1)>DIV:nth-child(1)>DIV:nth-child(1)>DIV:nth-child(2)>DIV:nth-child(2)>DIV:nth-child(2)>DIV:nth-child(1)>A:nth-child(4)
-kagi.com##DIV:nth-child(12)>DIV:nth-child(3)>DIV:nth-child(2)>[id='_0_app_content']>[id='main']>[id='page1']>[id='layout-v2']>DIV:nth-child(1)>DIV:nth-child(1)>DIV:nth-child(1)>DIV:nth-child(2)>DIV:nth-child(2)>DIV:nth-child(2)>DIV:nth-child(1)>A:nth-child(7)
+kagi.com##div:nth-child(7) > footer:nth-child(3) > div:nth-child(1)
 
 # freedium.cfd
 freedium.cfd###header

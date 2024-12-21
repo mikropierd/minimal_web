@@ -1,5 +1,6 @@
 # GLOBAL
 */partner.ads.js
+##.clear.site_footer
 
 # discussions.apple.com
 discussions.apple.com###ac-globalfooter

@@ -1,6 +1,9 @@
 # GLOBAL
 */partner.ads.js
-##.clear.site_footer
+
+# sanet.lc
+sanet.lc###\30
+sanet.lc##.clear.site_footer
 
 # discussions.apple.com
 discussions.apple.com###ac-globalfooter

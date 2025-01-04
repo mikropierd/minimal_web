@@ -5,6 +5,24 @@
 sanet.lc###\30
 sanet.lc##.clear.site_footer
 
+# appstorrent
+appstorrent.ru###cookie_modal
+appstorrent.ru##.locked
+appstorrent.ru##.footer
+appstorrent.ru##section.main-page
+appstorrent.ru##.medium.button
+appstorrent.ru##.stop_scroll_top
+appstorrent.ru###scroll_top
+appstorrent.ru##.icon-update
+appstorrent.ru##.lang
+appstorrent.ru##.related-news
+appstorrent.ru##.block-fav
+appstorrent.ru##.virus
+appstorrent.ru##.new-comment
+appstorrent.ru##.discuss > .title
+appstorrent.ru##.discuss
+appstorrent.ru##.right > .right
+
 # discussions.apple.com
 discussions.apple.com###ac-globalfooter
 discussions.apple.com##.recommendations

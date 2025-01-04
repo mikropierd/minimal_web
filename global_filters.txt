@@ -43,6 +43,12 @@ wikipedia.org##.refbegin
 wikipedia.org##.text.external
 wikipedia.org##.cs1.web.citation
 wikipedia.org##sup.Inline-Template.noprint
+en.m.wikipedia.org###Notes
+en.m.wikipedia.org##.header-chrome.header-container
+en.m.wikipedia.org##.heading-holder.pre-content
+m.wikipedia.org###Notes
+m.wikipedia.org##.header-chrome.header-container
+m.wikipedia.org##.heading-holder.pre-content
 
 # PORTAL FIZJOTERAPEUTY
 fizjoterapeuty.pl##.elementor-location-header.elementor-26278.elementor

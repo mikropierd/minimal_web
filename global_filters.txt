@@ -116,7 +116,6 @@ github.com##.d-md-block.d-none.TimelineItem-avatar.avatar-parent-child
 github.com##.d-flex.clearfix.timeline-comment-header
 github.com##show-dialog-on-load
 github.com##.bVgnfw.Box-sc-g0xbh4-0
-github.com##.iNSVHo.Box-sc-g0xbh4-0
 github.com##.hTYflC.Box-sc-g0xbh4-0
 github.com##.col-lg-3.col-md-4
 github.com##.flash-notice.flash-full.flash

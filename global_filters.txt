@@ -82,6 +82,7 @@ fizjoterapeuty.pl##.is-mac.elementor-widget-image.elementor-widget.elementor-ele
 fizjoterapeuty.pl##table
 fizjoterapeuty.pl##.elementskit-parallax-multi-container.jet-parallax-section.elementor-section-height-default.elementor-section-boxed.elementor-element-701c45bf.elementor-element.elementor-inner-section.elementor-section
 fizjoterapeuty.pl##.elementor-element-b6f1060.elementor-element.elementor-top-column.elementor-col-50.elementor-column
+fizjoterapeuty.pl##.gofollow
 
 # MP.PL
 www.mp.pl###right_box

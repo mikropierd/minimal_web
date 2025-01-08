@@ -1,11 +1,22 @@
 # GLOBAL
 */partner.ads.js
 
-# sanet.lc
-sanet.lc###\30
-sanet.lc##.clear.site_footer
-
 # appstorrent
+appstorrent.ru###cookie_modal
+appstorrent.ru##.locked
+appstorrent.ru##.footer
+appstorrent.ru##section.main-page
+appstorrent.ru##.medium.button
+appstorrent.ru##.stop_scroll_top
+appstorrent.ru###scroll_top
+appstorrent.ru##.icon-update
+appstorrent.ru##.lang
+appstorrent.ru##.related-news
+appstorrent.ru##.block-fav
+appstorrent.ru##.virus
+appstorrent.ru##.new-comment
+appstorrent.ru##.discuss
+appstorrent.ru##.right > .right
 appstorrent.ru###cookie_modal
 appstorrent.ru##.locked
 appstorrent.ru##.footer
@@ -37,6 +48,9 @@ discussions.apple.com##.css-sticky.localnav-scrim.localnav
 discussions.apple.com##.breadcrumbs
 discussions.apple.com##.globalheader-light.globalnav-scrim
 discussions.apple.com##.question-wrapper
+discussions.apple.com##.form-alert
+discussions.apple.com##.persist-question
+discussions.apple.com##.all-replies-header
 
 # WIKIPEDIA
 wikipedia.org##.reference
@@ -122,6 +136,9 @@ github.com##.col-lg-3.col-md-4
 github.com##.flash-notice.flash-full.flash
 github.com## .react-directory-row-commit-cell .react-directory-commit-message > .Link--secondary
 github.com###issues-index-tip
+github.com##.jRFAHs.Box-sc-g0xbh4-0
+github.com##.eDcZlN.Box-sc-g0xbh4-0
+github.com##.AppHeader-CopilotChat
 
 # gist.github.com
 gist.github.com##.js-quote-selection-container
@@ -176,3 +193,16 @@ allegro.pl##.notranslate._26211_Hohf4.msts_pt.mjb5_w0.mj7u_0.mqm6_0.mnjl_0.mq1m_
 allegro.pl##._13850_D0eRg.mp7g_f6.mpof_vs_x.mpof_5r
 allegro.pl##._13850_p0XNi.mzmg_f9.munh_0_l.munh_16_s.munh_8.mpof_vs_x.mpof_5r._13850_z9wDq.m6ax_n4.meqh_en.msa3_z4.munh_0.mryx_0.m3h2_0.mp4t_0.mli8_k4.mgmw_wo.mqu1_21.mp0t_0a.mgn2_14.mp7g_oh
 allegro.pl##DIV:nth-child(3)>[id='chat-container']>DIV:nth-child(2)>BUTTON:nth-child(1)
+
+# SOFTARCHIVE
+softarchive.is##.ab
+softarchive.is##.clear.site_footer
+softarchive.is##.posts-results
+softarchive.is##.cat-header-flex.plr0.fffbg
+softarchive.is###filter-float-bar-block-mod
+softarchive.is##div.header__inner:nth-of-type(1)
+softarchive.is##.header__inner_justify_end.header__inner
+softarchive.is##.view-setup
+softarchive.is##.firstr
+softarchive.is###\30
+softarchive.is##.clear.site_footer
